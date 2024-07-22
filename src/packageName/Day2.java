@@ -18,6 +18,11 @@ public class Day2 {
 		System.out.println(UName);
 	}
 	
+	@Test
+	public void lloan() {
+		System.out.println("this is for checking clone in Git");
+	}
+	
 	@Test(groups = {"Smoke"})
 	public void loan() {
 		System.out.println("loan");
