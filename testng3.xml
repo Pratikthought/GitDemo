@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Personal Loan">
+	<groups>
+	<run>
+	<include name="Smoke"/>
+	</run>
+	</groups>
+		<classes>
+			<class name="packageName.Day1" />
+            <class name="packageName.Day2" />
+			<class name="packageName.Day4" />
+			<class name="packageName.Day3" />
+		</classes>
+
+	</test> <!-- Test -->
+
+
+
+
+</suite> <!-- Suite -->
