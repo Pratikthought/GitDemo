@@ -12,6 +12,7 @@ public class Day1 {
 	public void one() {
 		System.out.println("Hii");
 		System.out.println("Hiiii");
+		System.out.println("HIIIIII");
 		
 	}
 	
