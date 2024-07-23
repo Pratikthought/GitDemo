@@ -11,6 +11,9 @@ public class Day1 {
 	@Test
 	public void one() {
 		System.out.println("Hii");
+		System.out.println("Hiiiii");
+		System.out.println("Hiiiiiiii");
+		
 	}
 	
 	@Test
