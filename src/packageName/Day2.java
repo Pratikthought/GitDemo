@@ -18,7 +18,10 @@ public class Day2 {
 		System.out.println(UName);
 	}
 	
-	
+	@Test
+	public void QA() {
+		System.out.println("pull from GitDemo");
+	}
 	
 	@Test(groups = {"Smoke"})
 	public void loan() {
@@ -28,5 +31,6 @@ public class Day2 {
 	public void aftertest() {
 		System.out.println("After Test");
 	}
+	
 	
 }
