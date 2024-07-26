@@ -18,6 +18,8 @@ public class Day2 {
 		System.out.println(UName);
 	}
 	
+	
+	
 	@Test(groups = {"Smoke"})
 	public void loan() {
 		System.out.println("loan");
